@@ -1,0 +1,36 @@
+.ant-card {
+width: 40%;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+
+
+.input-field {
+    width: 100%; /* Делает поле ввода на всю ширину родительского элемента */
+    max-width: 300px; /* Максимальная ширина поля ввода */
+}
+
+.ant-upload-list-item-container {
+    width: 100%; /* Делает поле ввода на всю ширину родительского элемента */
+    max-width: 300px; /* Максимальная ширина поля ввода */
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px; /* Расстояние между полями */
+}
+
+.form-item {
+    flex: 1;
+    min-width: 200px; /* Минимальная ширина поля */
+}
+
+.upload-container {
+    margin-top: 16px; /* Отступ сверху */
+}

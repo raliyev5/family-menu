@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+}
+
+.admin-header {
+    background-color: #001529;
+    color: #fff;
+    padding: 0 20px;
+}
+
+.admin-sidebar {
+    background-color: #001529;
+    color: #fff;
+    height: 100vh;
+    position: fixed;
+    width: 200px;
+}
+
+ .ant-layout-sider-trigger {
+    background: #ffffff; /* Белый фон */
+    color: #000000; /* Черный цвет стрелки */
+}
+
+.admin-content {
+    padding: 20px;
+}
+
+.admin-footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #001529;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

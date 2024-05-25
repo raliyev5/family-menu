@@ -1,0 +1,4 @@
+.admin-sidebar .ant-layout-sider-trigger {
+    background: #ffffff !important; /* Белый фон */
+    color: #000000 !important; /* Черный цвет стрелки */
+}
